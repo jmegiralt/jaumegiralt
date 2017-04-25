@@ -1,9 +1,8 @@
-# jaumegiralt
+# Jaumegiralt.com
 Personal website
 
 
-#Craft CMS
-Documentation
+Craft Documentation
 -----------------------------------------------------------------
 Installation instructions and much more.
 https://craftcms.com/docs
