@@ -7,8 +7,7 @@
  * You can see a list of the default settings in craft/app/etc/config/defaults/general.php
  */
 
-'*' => array(
-),
+
 return array(
 
 	// Base site URL
@@ -18,7 +17,7 @@ return array(
 	'environmentVariables' => array(),
 
 	// Default Week Start Day (0 = Sunday, 1 = Monday...)
-	'defaultWeekStartDay' => 0,
+	'defaultWeekStartDay' => 1,
 
 	// Enable CSRF Protection (recommended, will be enabled by default in Craft 3)
 	'enableCsrfProtection' => true,
